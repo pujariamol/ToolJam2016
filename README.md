@@ -35,7 +35,8 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 - [Promo Code Generator](https://github.com/pujariamol/promo_code_generator)
 
- <<< Description TBD >>>
+Online service to generate Promocode for game promotions and unlock in-app features. Promo-code cards can be printed using this service for easy distribution.
+
  
 - [Eyes Status Game Control](https://github.com/mvacosmos/eyes_status_game_control)
 
